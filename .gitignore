@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data (not meant to be committed — field images, labels, exports)
+*.jpg
+*.jpeg
+*.png
+!docs/*.png
+*.txt
+!requirements.txt
+data/
