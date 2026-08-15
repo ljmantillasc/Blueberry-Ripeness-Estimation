@@ -3,7 +3,8 @@
 Prototype pipeline that estimates the ripeness of individual blueberries directly from field
 images, without requiring a manually labeled ripeness dataset.
 
-![Ripeness scoring example](docs/ripeness_grid_example.png)
+<img width="1200" height="800" alt="newplot" src="https://github.com/user-attachments/assets/8d9ea410-adb2-46e2-ada2-48d9968e3c3f" />
+
 
 ## Problem
 
